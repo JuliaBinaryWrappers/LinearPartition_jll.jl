@@ -1,0 +1,288 @@
+[[LinearPartition]]
+arch = "aarch64"
+git-tree-sha1 = "1c8297651c5c483dd114f7d1fe9a826cf60721f4"
+os = "macos"
+
+    [[LinearPartition.download]]
+    sha256 = "1ed49b3e2969e5ed3023f801aaf9f12f822f0bb2c4a90aeffc8bd4f50db5bb2a"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.aarch64-apple-darwin.tar.gz"
+[[LinearPartition]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a43840ce3a19bfc9b29a40f6aeb0fdbba7de3e82"
+libc = "glibc"
+os = "linux"
+
+    [[LinearPartition.download]]
+    sha256 = "0388ff8791e6e13162a03ee4bedaa9ed2dfdd1dafe94a3222f52fffb45a7d0ec"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[LinearPartition]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a0ff1f7bc3eb53519f558177eac614b61907bdc4"
+libc = "glibc"
+os = "linux"
+
+    [[LinearPartition.download]]
+    sha256 = "9bfff684192820b4e0711fbdbc4d146055cf4192085d709d38652888d1e86dfc"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[LinearPartition]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "206be68f5bce4c06664eda18e3c28273b0b84274"
+libc = "musl"
+os = "linux"
+
+    [[LinearPartition.download]]
+    sha256 = "d0ccb3f8eef02b915aef8a51313125f623b7b3a096e884d2980a988b90b8246b"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.aarch64-linux-musl-cxx03.tar.gz"
+[[LinearPartition]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "94f2f7f01801fa34ec613099a136faf1233d7bce"
+libc = "musl"
+os = "linux"
+
+    [[LinearPartition.download]]
+    sha256 = "bad2664468ddc18e533234155148ae5d0d25030489d611d80b30eb5f10cd7b54"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[LinearPartition]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2b2c08b0b0433dfb1eea068242807509731afed2"
+libc = "glibc"
+os = "linux"
+
+    [[LinearPartition.download]]
+    sha256 = "9beddb1b1334fe013bee1edb03fabf158cca943038476172e845b428a8c9cca4"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[LinearPartition]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3e892e933abe0462bf39f701b062040c011fab0d"
+libc = "glibc"
+os = "linux"
+
+    [[LinearPartition.download]]
+    sha256 = "0ca8671cf605c86d71d214edd9a11793e5d5209366db90cf1d75a96d7115ed19"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[LinearPartition]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7fbc8904595f5f6635788b5a094b2f7364a7aa3c"
+libc = "musl"
+os = "linux"
+
+    [[LinearPartition.download]]
+    sha256 = "eefe04f5d0915c1b66d1ea6e864555ced9be2356fbce7494a8b6e71d234b3da3"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[LinearPartition]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "48b0f3c199de64b8a9b20e724f2fc87aee2553e0"
+libc = "musl"
+os = "linux"
+
+    [[LinearPartition.download]]
+    sha256 = "53376e88588b294e3828862769cd9c657cfd015ae8fe0218e229f5a5c8314f42"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[LinearPartition]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8b026cfa7e1598bd8edc8bd4b695eff1b70c4b96"
+libc = "glibc"
+os = "linux"
+
+    [[LinearPartition.download]]
+    sha256 = "842ebaeaa6fc82df41d6e8c69022374696499612132b0f35590bc8aa0e22b89c"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[LinearPartition]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "186303d98cf9b720ea8a9e95724279298df126d8"
+libc = "glibc"
+os = "linux"
+
+    [[LinearPartition.download]]
+    sha256 = "f8a37286d53dc667ddc77663b4c017c54312a64ba03c56bf35c4802c56198111"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[LinearPartition]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "042b326fbf1437439ba3d04c4653efb517aa8e00"
+libc = "musl"
+os = "linux"
+
+    [[LinearPartition.download]]
+    sha256 = "fda1480e32cfef3975a64164c96ad9a682262829a51aabde60a1f48f0c33fcd6"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[LinearPartition]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9667cc5b943261f4dfc535d795afaa1397c8a2df"
+libc = "musl"
+os = "linux"
+
+    [[LinearPartition.download]]
+    sha256 = "9e66edacff202a381540d80f0481035a2caa40d99aa95b259ab7e8b4e04c0584"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[LinearPartition]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a6a075374e49528df3111d5118065cc8c7e16a9f"
+libc = "glibc"
+os = "linux"
+
+    [[LinearPartition.download]]
+    sha256 = "37a2cf56da7e867ef7acf2db832807cc203e4b26f3fdd13b98f4dee6f3d69324"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[LinearPartition]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f9ca4a5fa6ef6383ff49ee559423e3af87fb36c5"
+libc = "glibc"
+os = "linux"
+
+    [[LinearPartition.download]]
+    sha256 = "6855423726bce33b058983bf6b72fc9a97b1570f7b0390986f59f55061e76776"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[LinearPartition]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6994f137fe8be3c6ec002bb4bbe991833c00f987"
+libc = "musl"
+os = "linux"
+
+    [[LinearPartition.download]]
+    sha256 = "cfc36235a50d973a71961876c22259ea58d45487ce7e83644e33ff3195f452fb"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.i686-linux-musl-cxx03.tar.gz"
+[[LinearPartition]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "822079c97b961b7d51d8a20da38bfbfda7e55803"
+libc = "musl"
+os = "linux"
+
+    [[LinearPartition.download]]
+    sha256 = "e143653176fcdf58780f7ccac9834a0f4b27f654750f986353a44201d272558a"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.i686-linux-musl-cxx11.tar.gz"
+[[LinearPartition]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9b92721ebb45d76f06b9371e4667b51b525b9f16"
+os = "windows"
+
+    [[LinearPartition.download]]
+    sha256 = "63f2285a70fb4fd7f16eacfa31cca7e10c69255075b7af1c3ee263575b86269b"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.i686-w64-mingw32-cxx03.tar.gz"
+[[LinearPartition]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2c8e735b92d84f2f9d74bc0d096a3989a777d302"
+os = "windows"
+
+    [[LinearPartition.download]]
+    sha256 = "9aeff23499c177ee5f654e43ccd9fe3440416f14b3861fcf149dc350865ce7c7"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.i686-w64-mingw32-cxx11.tar.gz"
+[[LinearPartition]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0849accd413d6c3f664c816d8dd3778d75709d6f"
+libc = "glibc"
+os = "linux"
+
+    [[LinearPartition.download]]
+    sha256 = "f694fb0a2f8ab97326bebf16be4387580f567be2fdfc449e8425abd8812a9df7"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[LinearPartition]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fc89a8c2947455eacccc8a10a8fffdc5cbe86a90"
+libc = "glibc"
+os = "linux"
+
+    [[LinearPartition.download]]
+    sha256 = "48d3bec75253c9b664af7b2059a3b2999aa225c7e61b295734a9c12edba6b41d"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[LinearPartition]]
+arch = "x86_64"
+git-tree-sha1 = "d01ea7d9ec0731d8e9c75d51d89cc74f1801978f"
+os = "macos"
+
+    [[LinearPartition.download]]
+    sha256 = "73fa4f96a5fdd8f7ffc79334d6c8cf858fe2cfec31b53d2e771525570602aa7d"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.x86_64-apple-darwin.tar.gz"
+[[LinearPartition]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "204027b9bb63ffb8fd0d3dd148cc1b9367157eea"
+libc = "glibc"
+os = "linux"
+
+    [[LinearPartition.download]]
+    sha256 = "a3b675a19db8716576db82fe7750f6066d92cec48e25a1a452f78f1c0daaa327"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[LinearPartition]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5860223a2e30d039fb3f316cb75a396ee53e82f9"
+libc = "glibc"
+os = "linux"
+
+    [[LinearPartition.download]]
+    sha256 = "7f735341854b94c4ca2a126bdbc26684701ae93b30a33991c84ec91208520fa4"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[LinearPartition]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "77990991d24cfaf12a5e22ec944ae35fd6f3bbf9"
+libc = "musl"
+os = "linux"
+
+    [[LinearPartition.download]]
+    sha256 = "2a13784039410cb43e756f755401502444f034fbdc340e16e2b152f3114e36a2"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[LinearPartition]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2ff3989c036519bef81c0f0343abe4f9c6d8d940"
+libc = "musl"
+os = "linux"
+
+    [[LinearPartition.download]]
+    sha256 = "9687de13eb8cabc9d3b719c19db6467e15f6983119f2980377d2762825f4a1fe"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[LinearPartition]]
+arch = "x86_64"
+git-tree-sha1 = "34f1a6fafd198f63943071edd61dfda08af5306e"
+os = "freebsd"
+
+    [[LinearPartition.download]]
+    sha256 = "aeea3ba5c4d07fa296780349c5988308f36a1e6841641abd7db332a9b9ed93c4"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+[[LinearPartition]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bb02facfa7c644fd3a258824474b91f076b567a4"
+os = "windows"
+
+    [[LinearPartition.download]]
+    sha256 = "a6cc903c435ea64dcbd5750949864c16b87a094f1d3a80bbabf5084767deb6f9"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[LinearPartition]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d78bc3f4a360644351c89ba5e8c3e5e91cb04656"
+os = "windows"
+
+    [[LinearPartition.download]]
+    sha256 = "b1827db3bb788c98a7f06cd0af8324d470980847e9731d8b3d45c2276de793ba"
+    url = "https://github.com/JuliaBinaryWrappers/LinearPartition_jll.jl/releases/download/LinearPartition-v1.0.0+0/LinearPartition.v1.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
